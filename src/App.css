@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: #292c34;
+  min-height: 100vh;
+}
+
+.App-header {
+  justify-content: top;
+  font-size: calc(10px + 6vmin);
+  font-weight: bold;
+  color: white;
+}

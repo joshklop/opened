@@ -1,0 +1,24 @@
+.list-item {
+    padding: 10px;
+}
+
+.document {
+    display: flex;
+    justify-content: center;
+}
+
+.next-prev-button {
+    background-color: white;
+    color: #292c34;
+    border: none;
+    font-size: 16px;
+    margin: 10px;
+    padding: 7.5px;
+    margin: 7.5px;
+    border-radius: 32px;
+    cursor: pointer;
+}
+
+.page-numbers {
+    color: white;
+}

@@ -1,0 +1,10 @@
+.Upload-button {
+    background-color: white;
+    color: #292c34;
+    padding: 15px;
+    margin: 15px;
+    border: none;
+    font-size: 24px;
+    border-radius: 32px;
+    cursor: pointer;
+}
