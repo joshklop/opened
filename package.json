@@ -3,15 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@airgap/beacon-sdk": "^2.3.4",
+    "@ledgerhq/hw-transport-u2f": "^5.36.0-deprecated",
+    "@taquito/beacon-wallet": "^10.2.0",
+    "@taquito/ledger-signer": "^10.2.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "conseiljs": "^5.0.8-3",
+    "conseiljs-softsigner": "^5.0.4-1",
     "ipfs-core": "^0.11.1",
     "it-all": "^1.0.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-pdf": "^5.4.0",
     "react-scripts": "4.0.3",
+    "taquito": "^1.0.0",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
