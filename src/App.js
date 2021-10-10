@@ -27,10 +27,6 @@ function App() {
         OpenEd
       </header>
       <UploadButton files={files} setFiles={setFiles}/>
-      <form>
-        <input type='text'/>
-        <input type='submit'/>
-      </form>
       <MediaList files={files} />
       {
         beaconConnection 
